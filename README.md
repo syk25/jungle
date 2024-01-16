@@ -7,3 +7,5 @@
     - Javascript
     - jQuery
     - jQuery 연습문제
+    - Ajax 예제, 연습문제
+
