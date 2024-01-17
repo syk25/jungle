@@ -10,3 +10,7 @@
     - Ajax 예제, 연습문제
 2. Chapter 03
     - Python
+
+### 2024.01.17(수)
+1. Chapter 03
+    - Python: Scraper (CGV 영화정보) 구현
