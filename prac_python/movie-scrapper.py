@@ -1,6 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+from pymongo import MongoClient
+
+client = MongoClient('localhost', 27017)
+db = client.jungle
 
 url = "http://www.cgv.co.kr/movies/?lt=1&ft=0"
 
@@ -37,10 +41,3 @@ for movie in movies:
     movies_db.append(movie)
 
 print(movies_db)
-# 오늘 날짜
-
-# 영화리스트
-# 영화제목
-# 영화 링크
-# 영화 예매율
-# 개봉일

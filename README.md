@@ -14,3 +14,7 @@
 ### 2024.01.17(수)
 1. Chapter 03
     - Python: Scraper (CGV 영화정보) 구현
+    - mongodb
+
+### 2024.01.18(목)
+1. chapter 04
